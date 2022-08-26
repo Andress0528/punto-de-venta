@@ -5,7 +5,7 @@
 	<title>A</title>
 </head>
 <body>
-	<?php echo "Puto el que lo lea" ?>
+	<?php echo "Bienvenido" ?>
 	<br><br>
 	<a href="Inventario/Inventario.php">Inventario</a>
 	<br><br>	
