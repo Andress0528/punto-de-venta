@@ -7,3 +7,5 @@
 Jhon Fanor: Programador principal
 Andrés Osuna: Programador auxiliar, Gestor de Base de Datos y Documentador
 Jhon Guevara: Programador auxiliar y diseñador
+
+-Link de la app en Heroku: https://venta-componentes-pc.herokuapp.com
