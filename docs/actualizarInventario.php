@@ -58,7 +58,7 @@
 	</tr>
 	</table>
 	<br>
-    <center><a href="Inventario.php" class="btn btn-red">Cancelar</a></center> 
+    <center><a href="index.php" class="btn btn-red">Cancelar</a></center> 
 
 </body>
 </html>
