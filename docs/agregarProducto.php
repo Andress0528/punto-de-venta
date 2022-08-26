@@ -14,7 +14,7 @@
 	$consulta = pg_query($conn, $query);
 
 	if($consulta){
-		Header("Location:Inventario.php");
+		Header("Location:index.php");
 	}
 
 ?>
